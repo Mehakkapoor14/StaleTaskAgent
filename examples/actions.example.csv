@@ -1,0 +1,12 @@
+key,action,target,resolution,comment,reason,source,confidence,approved
+PORT-17,close,,done,"Closing: the SDK v5 upgrade shipped in https://github.com/acme/portal-web/pull/211 (merged 2026-08-20). Reopen if anything is left.",Merged PR resolves PORT-17; ticket left In Progress,stale-triage,high,yes
+acme/portal-web#105,close,,done,Fixed by #210 (merged 2026-08-05).,Closing PR merged but issue still open,stale-triage,high,yes
+PORT-13,close-duplicate,PORT-12,,"Same Okta redirect loop in Safari as PORT-12, which already has a repro. Follow PORT-12 for updates.",Same symptom and browser; PORT-12 has repro and owner,duplicate-detection,high,yes
+acme/portal-web#102,close-duplicate,acme/portal-web#101,,Same Pay now button overlap on iOS Safari as #101 (in progress).,Same bug; #101 has owner and activity,duplicate-detection,high,yes
+acme/portal-web#103,close-duplicate,PORT-10,,"Invoice PDF download is tracked in Jira as PORT-10 (in progress): https://acme.atlassian.net/browse/PORT-10",Cross-platform duplicate of an in-progress story,duplicate-detection,high,
+PORT-14,close,,wont-do,"Closing: the legacy reporting dashboard was retired on 30 Jun 2026 (PORT-3). If CSV export is still needed, raise it for the analytics product.",Parent epic done; dashboard retired; charter lists it out of scope,alignment-check,high,yes
+PORT-16,comment,,,"Sam Ortiz: the charter puts native mobile apps out of scope until FY27. OK to close this as Won't Do, or should it move to an FY27 ideas list? Will close on 2026-11-07 if no reply.",Out of scope per charter; reporter may have context,alignment-check,medium,yes
+PORT-18,comment,,,"Marco Ruiz: this pen-test finding (PT-7) must close before the SOC 2 audit on 15 Jan 2027, but its assignee is no longer active and it has no epic. Can you take it, or name an owner by 2026-10-31?",High-priority work tied to objective 3 with an inactive owner; needs a person not a closure,stale-triage,high,
+PORT-18,unassign,,,,Assignee Dana Lee is inactive,stale-triage,high,
+PORT-20,keep,,,,"Still needed for billing GA; carried over 4 sprints — raise in planning instead of closing",stale-triage,high,yes
+PORT-23,relabel,+icebox,,,Not tied to any objective; 2 customer +1s so keep visible,alignment-check,medium,no

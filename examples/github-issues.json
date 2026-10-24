@@ -1,0 +1,249 @@
+[
+ {
+  "number": 101,
+  "title": "Checkout button misaligned on mobile Safari",
+  "body": "On iPhone Safari the Pay now button overlaps the total. Screenshot attached.",
+  "state": "OPEN",
+  "stateReason": null,
+  "labels": [
+   {
+    "name": "bug"
+   }
+  ],
+  "assignees": [
+   {
+    "login": "jlee"
+   }
+  ],
+  "author": {
+   "login": "cwu"
+  },
+  "createdAt": "2026-09-02T10:00:00Z",
+  "updatedAt": "2026-10-15T10:00:00Z",
+  "closedAt": null,
+  "milestone": {
+   "number": 3,
+   "title": "Billing GA",
+   "description": "Self-service billing general availability",
+   "dueOn": "2026-11-30T00:00:00Z"
+  },
+  "comments": [
+   {
+    "author": {
+     "login": "jlee"
+    },
+    "body": "Looking at the CSS grid now.",
+    "createdAt": "2026-10-15T10:00:00Z"
+   }
+  ],
+  "url": "https://github.com/acme/portal-web/issues/101",
+  "closedByPullRequestsReferences": []
+ },
+ {
+  "number": 102,
+  "title": "Pay now button layout broken on iPhone Safari",
+  "body": "The checkout pay button overlaps the order total on Safari iOS 17.",
+  "state": "OPEN",
+  "stateReason": null,
+  "labels": [
+   {
+    "name": "bug"
+   }
+  ],
+  "assignees": [],
+  "author": {
+   "login": "support-bot"
+  },
+  "createdAt": "2026-10-01T09:00:00Z",
+  "updatedAt": "2026-10-01T09:00:00Z",
+  "closedAt": null,
+  "milestone": {
+   "number": 3,
+   "title": "Billing GA",
+   "description": "Self-service billing general availability",
+   "dueOn": "2026-11-30T00:00:00Z"
+  },
+  "comments": [],
+  "url": "https://github.com/acme/portal-web/issues/102",
+  "closedByPullRequestsReferences": []
+ },
+ {
+  "number": 103,
+  "title": "Add PDF download for invoices",
+  "body": "Customers want to download invoices as PDF from the invoice page.",
+  "state": "OPEN",
+  "stateReason": null,
+  "labels": [
+   {
+    "name": "enhancement"
+   }
+  ],
+  "assignees": [],
+  "author": {
+   "login": "pshah"
+  },
+  "createdAt": "2026-09-20T09:00:00Z",
+  "updatedAt": "2026-09-20T09:00:00Z",
+  "closedAt": null,
+  "milestone": {
+   "number": 3,
+   "title": "Billing GA",
+   "description": "Self-service billing general availability",
+   "dueOn": "2026-11-30T00:00:00Z"
+  },
+  "comments": [],
+  "url": "https://github.com/acme/portal-web/issues/103",
+  "closedByPullRequestsReferences": []
+ },
+ {
+  "number": 104,
+  "title": "Update README badges",
+  "body": "",
+  "state": "CLOSED",
+  "stateReason": "COMPLETED",
+  "labels": [
+   {
+    "name": "docs"
+   }
+  ],
+  "assignees": [
+   {
+    "login": "mruiz"
+   }
+  ],
+  "author": {
+   "login": "mruiz"
+  },
+  "createdAt": "2026-05-01T09:00:00Z",
+  "updatedAt": "2026-05-02T09:00:00Z",
+  "closedAt": null,
+  "milestone": null,
+  "comments": [],
+  "url": "https://github.com/acme/portal-web/issues/104",
+  "closedByPullRequestsReferences": []
+ },
+ {
+  "number": 105,
+  "title": "Fix typo in footer copyright",
+  "body": "Footer says 'Copyrigth'.",
+  "state": "OPEN",
+  "stateReason": null,
+  "labels": [
+   {
+    "name": "bug"
+   }
+  ],
+  "assignees": [
+   {
+    "login": "mruiz"
+   }
+  ],
+  "author": {
+   "login": "cwu"
+  },
+  "createdAt": "2026-08-01T09:00:00Z",
+  "updatedAt": "2026-08-03T09:00:00Z",
+  "closedAt": null,
+  "milestone": null,
+  "comments": [],
+  "url": "https://github.com/acme/portal-web/issues/105",
+  "closedByPullRequestsReferences": [
+   {
+    "number": 210,
+    "url": "https://github.com/acme/portal-web/pull/210"
+   }
+  ]
+ },
+ {
+  "number": 106,
+  "title": "Support Internet Explorer 11",
+  "body": "Some customers still use IE11.",
+  "state": "OPEN",
+  "stateReason": null,
+  "labels": [
+   {
+    "name": "enhancement"
+   }
+  ],
+  "assignees": [],
+  "author": {
+   "login": "old-pm"
+  },
+  "createdAt": "2024-01-10T09:00:00Z",
+  "updatedAt": "2024-02-01T09:00:00Z",
+  "closedAt": null,
+  "milestone": null,
+  "comments": [
+   {
+    "author": {
+     "login": "old-pm"
+    },
+    "body": "Parking this for now.",
+    "createdAt": "2024-02-01T09:00:00Z"
+   }
+  ],
+  "url": "https://github.com/acme/portal-web/issues/106",
+  "closedByPullRequestsReferences": []
+ },
+ {
+  "number": 107,
+  "title": "Improve docs",
+  "body": "",
+  "state": "OPEN",
+  "stateReason": null,
+  "labels": [
+   {
+    "name": "docs"
+   }
+  ],
+  "assignees": [],
+  "author": {
+   "login": "cwu"
+  },
+  "createdAt": "2025-06-01T09:00:00Z",
+  "updatedAt": "2025-06-01T09:00:00Z",
+  "closedAt": null,
+  "milestone": null,
+  "comments": [],
+  "url": "https://github.com/acme/portal-web/issues/107",
+  "closedByPullRequestsReferences": []
+ },
+ {
+  "number": 108,
+  "title": "Session timeout is too short for finance users",
+  "body": "Finance users get logged out after 15 minutes while reconciling. Raise to 60 for the finance role.",
+  "state": "OPEN",
+  "stateReason": null,
+  "labels": [
+   {
+    "name": "enhancement"
+   },
+   {
+    "name": "in progress"
+   }
+  ],
+  "assignees": [
+   {
+    "login": "dlee"
+   }
+  ],
+  "author": {
+   "login": "pshah"
+  },
+  "createdAt": "2026-06-15T09:00:00Z",
+  "updatedAt": "2026-07-20T09:00:00Z",
+  "closedAt": null,
+  "milestone": null,
+  "comments": [
+   {
+    "author": {
+     "login": "dlee"
+    },
+    "body": "Started on this.",
+    "createdAt": "2026-07-20T09:00:00Z"
+   }
+  ],
+  "url": "https://github.com/acme/portal-web/issues/108",
+  "closedByPullRequestsReferences": []
+ }
+]
